@@ -1,3 +1,4 @@
+# coding = utf8
 # Ranaly
 Ranaly是一个基于Redis的数据统计可视化工具。
 
@@ -332,4 +333,3 @@ realtime_count支持同时显示多个bucket的数据。
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/luin/ranaly/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
