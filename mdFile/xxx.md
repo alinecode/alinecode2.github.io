@@ -7,7 +7,7 @@ Ranaly的Node.js客户端库[node_ranaly](https://github.com/luin/node_ranaly)�
 ![效果图](./assets/preview.png)
 
 特点如下：
-
+ 
 1. 使用简单，容易维护
 2. 基于Redis，性能优异
 3. 支持模块级别的权限控制
