@@ -1,4 +1,4 @@
-# coding = utf8
+
 # Ranaly
 Ranaly是一个基于Redis的数据统计可视化工具。
 
